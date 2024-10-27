@@ -1,5 +1,5 @@
 
-from src.model.users import User, insert_user, search_user_by_id, update_user, delete_user
+from src.controller.users import User, insert_user, search_user_by_id, update_user, delete_user
 
 def create_new_user():
     firstname = input("Ingresa el nombre: ")
