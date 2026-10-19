@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+SecretConfig.py
+src/controller/SecretConfig.py
+cryptot-master/src/controller/SecretConfig.py
